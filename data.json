@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Siddharth", "role": "Developer"},
+  {"id": 2, "name": "Ishu", "role": "Designer"},
+  {"id": 3, "name": "Atul", "role": "Manager"},
+  {"id": 4, "name": "Sandeep", "role": "Database"},
+  {"id": 5, "name": "Rishi", "role": "OpenShift Administrator"},
+  {"id": 5, "name": "Ajit", "role": "Teacher"}
+ 
+]
